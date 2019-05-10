@@ -1,4 +1,4 @@
-const words = require('../dictionary')
+const words = require('@saoirse-zee/dictionary')
 
 // Return final n phonemes of a word
 const endingPhonemes = (word, n=1) => (

@@ -1,10 +1,13 @@
 {
-  "name": "find-rhymes",
+  "name": "@saoirse-zee/find-rhymes",
   "version": "0.1.1",
   "description": "Finds rhymes using a phonetic dictionary.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@saoirse-zee/dictionary": "*"
   },
   "author": "",
   "license": "ISC"
