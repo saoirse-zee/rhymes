@@ -1,6 +1,6 @@
 {
   "name": "find-rhymes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Finds rhymes using a phonetic dictionary.",
   "main": "index.js",
   "scripts": {
