@@ -1,14 +1,22 @@
 {
-  "name": "rhymes",
+  "name": "@saoirse-zee/rhymes",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Emma Smith",
   "license": "ISC",
   "devDependencies": {
     "lerna": "^3.13.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saoirse-zee/rhymes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saoirse-zee/rhymes/issues"
+  },
+  "homepage": "https://github.com/saoirse-zee/rhymes#readme",
+  "description": ""
 }

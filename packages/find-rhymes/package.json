@@ -1,0 +1,11 @@
+{
+  "name": "find-rhymes",
+  "version": "1.0.0",
+  "description": "Finds rhymes using a phonetic dictionary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
